@@ -1,0 +1,4 @@
+Mnesia.nonode@nohost/
+_build/
+*.dump
+deps
