@@ -1,5 +1,7 @@
 # CiFsm
 
+Messing with [exactor](https://github.com/sasa1977/exactor) and [fsm](https://github.com/sasa1977/fsm) Elixir packages
+
 ```
  % mix deps.get
 Running dependency resolution...
