@@ -1,4 +1,4 @@
-# CiFsm
+# elixir_poc_fsm
 
 Messing with [exactor](https://github.com/sasa1977/exactor) and [fsm](https://github.com/sasa1977/fsm) Elixir packages
 
